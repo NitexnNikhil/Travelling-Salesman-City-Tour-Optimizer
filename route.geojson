@@ -1,0 +1,36 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78.0421,
+                        27.1751
+                    ],
+                    [
+                        138.7274,
+                        35.3606
+                    ],
+                    [
+                        116.5704,
+                        40.4319
+                    ],
+                    [
+                        55.2744,
+                        25.1972
+                    ],
+                    [
+                        78.0421,
+                        27.1751
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Optimal Route"
+            }
+        }
+    ]
+}
